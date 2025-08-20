@@ -42,11 +42,10 @@
 
 # Slide 5: Tech Stack
 - **Frontend:** Android (Jetpack Compose, Kotlin)
-- **Backend:** Spring Boot (Java)
+- **Backend:** Spring Boot (Java), Apache Kafka
 - **Database:** MySql
-- **Image Storage:** Cloudinary(Not needed)
 - **APIs & Tools:** JWT Auth, Compose Navigation, Chart libraries, Push Notifications
-- **DevOps/Hosting:** AWS EC2, S3, RDS.
+- **DevOps/Hosting:** Heroku
 
 ---
 
